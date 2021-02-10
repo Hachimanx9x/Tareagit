@@ -1,0 +1,23 @@
+{
+  "name": "Tareagit",
+  "version": "1.0.0",
+  "description": "esta es la rama principal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hachimanx9x/Tareagit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hachimanx9x/Tareagit/issues"
+  },
+  "homepage": "https://github.com/Hachimanx9x/Tareagit#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
